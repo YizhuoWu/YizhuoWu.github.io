@@ -3,22 +3,22 @@
 
 ### AWS / Big Data / Cloud Computing 
 
-[Dining Concierge Chatbot](/sample_page)
+### [Dining Concierge Chatbot](/sample_page)
 <img src="images/Dining_Concierge_Chat_Bot.png"/>
 
 ---
-[Voice Controlled Photo Album](/pdf/sample_presentation.pdf)
+### [Voice Controlled Photo Album](/pdf/sample_presentation.pdf)
 <img src="images/Voice_Controlled_Photo_Album.png"/>
 
 ---
-[Spam Detection](http://example.com/)
+### [Spam Detection](http://example.com/)
 <img src="images/spam_checker.png"/>
 
 ---
 
 ### Coding Projects / School Projects / Other Projects
 
-[Ladybug](http://example.com/)<br>
+### [Ladybug](http://example.com/)<br>
 <img src="images/Ladybug/s1.png" width="275" height="400"/>
 
 ---

@@ -10,5 +10,5 @@
 ### [JD.com - Chengdu, China](/pdf/sample_presentation.pdf)
 <img src="images/career/jd/jd1.jpeg" width="450" height="450"/>
 
-
 ---
+### Technical Stack
