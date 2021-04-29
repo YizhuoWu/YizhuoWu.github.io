@@ -1,10 +1,10 @@
 ## [Portfolio](https://yizhuowu.github.io/) | [Career](https://yizhuowu.github.io/career) | [Academics](https://yizhuowu.github.io/) | [About Me](https://yizhuowu.github.io/)
 ---
 
-### AWS / Big Data / Cloud Computing 
+### Internship Experiences
 
-[Dining Concierge Chatbot](/sample_page)
-<img src="images/Dining_Concierge_Chat_Bot.png"/>
+### [BMW Technology Corporation](/sample_page)
+<img src="images/career/bmw/bmw1.jpeg"/>
 
 ---
 [Voice Controlled Photo Album](/pdf/sample_presentation.pdf)
