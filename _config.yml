@@ -1,14 +1,13 @@
 title: Yizhuo Wu(吴懿卓) # your name (or website title) here
 logo: "https://avatars.githubusercontent.com/yizhuowu" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Academics:
-  •M.S. in Computer Science at Columbia University.
-  •B.S. in Computer Science at University of California, Irvine.
-  <br><br>
-  Career:
-  Software Engineer
-  Actively seeking Software Engineer position starting at June, 2022
-  <br><br>
+  Academics:<br>
+  •M.S. in Computer Science at Columbia University.<br>
+  •B.S. in Computer Science at University of California, Irvine.<br>
+  <br>
+  Career:<br>
+  Software Engineer<br>
+  Actively seeking Software Engineer position starting at June, 2022<br>
   <a href="https://www.linkedin.com/in/yizhuo-wu-11116712a/">View Yizhuo's LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
