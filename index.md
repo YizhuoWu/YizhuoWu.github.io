@@ -19,10 +19,8 @@
 
 ### Coding Projects / School Projects / Other Projects
 
----
-
-  [Ladybug](http://example.com/)
-  <img src="images/Ladybug/s1.png"/>
+[Ladybug](http://example.com/)
+<img src="images/Ladybug/s1.png"/>
 
 ---
 - [Project 2 Title](http://example.com/)
