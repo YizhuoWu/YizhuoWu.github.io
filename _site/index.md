@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Coding Projects / School Projects / Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
