@@ -4,18 +4,11 @@
 ### Internship Experiences
 
 ### [BMW Technology Corporation](/sample_page)
-<img src="images/career/bmw/bmw1.jpeg"/>
+<img src="images/career/bmw/bmw1.jpeg" width="450" height="450"/>
 
 ---
-[Voice Controlled Photo Album](/pdf/sample_presentation.pdf)
-<img src="images/Voice_Controlled_Photo_Album.png"/>
-
----
-[Spam Detection](http://example.com/)
-<img src="images/spam_checker.png"/>
-
-
-
+### [JD.com](/pdf/sample_presentation.pdf)
+<img src="images/career/jd/jd1.png" width="450" height="450"/>
 
 
 ---
