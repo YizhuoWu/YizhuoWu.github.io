@@ -1,5 +1,5 @@
-## [Portfolio]((https://www.google.com))
-
+## [Portfolio](https://yizhuowu.github.io/) | 
+## [Portfolio](https://yizhuowu.github.io/)
 ---
 
 ### AWS / Big Data / Cloud Computing 
