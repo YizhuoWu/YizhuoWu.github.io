@@ -1,4 +1,4 @@
-## [Portfolio](https://yizhuowu.github.io/) | [Career](https://yizhuowu.github.io/) | [Academics](https://yizhuowu.github.io/)
+## [Portfolio](https://yizhuowu.github.io/) | [Career](https://yizhuowu.github.io/) | [Academics](https://yizhuowu.github.io/) | [About Me](https://yizhuowu.github.io/)
 ---
 
 ### AWS / Big Data / Cloud Computing 
