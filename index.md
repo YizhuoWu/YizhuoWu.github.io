@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### AWS / Big Data / Cloud Computing 
 
-[Project 1 Title](/sample_page)
+[Dining Concierge Chatbot](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
