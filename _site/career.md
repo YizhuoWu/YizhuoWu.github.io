@@ -3,14 +3,12 @@
 
 ### Internship Experiences
 
-### [BMW Technology Corporation](/sample_page)
+### [BMW Technology Corporation - Chicago, IL](/sample_page)
 <img src="images/career/bmw/bmw1.jpeg" width="450" height="450"/>
 
 ---
-### [JD.com](/pdf/sample_presentation.pdf)
-<img src="images/career/jd/jd1.png" width="450" height="450"/>
+### [JD.com - Chengdu, China](/pdf/sample_presentation.pdf)
+<img src="images/career/jd/jd1.png" width="500" height="450"/>
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
