@@ -5,15 +5,15 @@
 ### AWS / Big Data / Cloud Computing 
 
 [Dining Concierge Chatbot](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Dining_Concierge_Chat_Bot.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Voice Controlled Photo Album](/pdf/sample_presentation.pdf)
 <img src="images/Voice_Controlled_Photo_Album.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spam Detection](http://example.com/)
+<img src="images/spam_checker.png"/>
 
 ---
 
