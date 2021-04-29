@@ -20,7 +20,7 @@
 ### Coding Projects / School Projects / Other Projects
 
 [Ladybug](http://example.com/)
-<img src="images/Ladybug/s1.png"/>
+<img src="images/Ladybug/s1.png" width="300" height="400"/>
 
 ---
 - [Project 2 Title](http://example.com/)
