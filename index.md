@@ -1,7 +1,3 @@
-## Other stuff
-
----
-
 ## Portfolio
 
 ---
