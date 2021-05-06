@@ -3,7 +3,7 @@
 
 ### Internship Experiences
 
-### [BMW Technology Corporation - Chicago, IL](/sample_page)
+### [BMW Technology Corporation - Chicago, IL](/bmw)
 <img src="images/career/bmw/bmw1.jpeg" width="450" height="450"/>
 
 ---
