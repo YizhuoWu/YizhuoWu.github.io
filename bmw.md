@@ -17,3 +17,4 @@ Software Engineering Intern at BMW Technology Corporation - Core Services Team<b
 • Implemented machine learning service API endpoints using C# under ASP.NET Core framework.<br>
 
 #### Some interesting photos for you to enjoy :superhero_woman
+:airplane:
