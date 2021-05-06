@@ -15,3 +15,5 @@ Software Engineering Intern at BMW Technology Corporation - Core Services Team<b
 • Participated in optimization for machine learning smart pre-conditioning service using python, Apache Hadoop.<br>
 • Participated in Services Migration to Service Mesh using Kubernetes, dockers, Apache Kafka.<br>
 • Implemented machine learning service API endpoints using C# under ASP.NET Core framework.<br>
+
+#### Some interesting photos for you to enjoy :superhero_woman:
