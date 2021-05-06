@@ -7,7 +7,7 @@
 <img src="images/career/bmw/bmw1.jpeg" width="450" height="450"/>
 
 ---
-### [JD.com - Chengdu, China](/pdf/sample_presentation.pdf)
+### [JD.com - Chengdu, China](/jd)
 <img src="images/career/jd/jd1.jpeg" width="450" height="450"/>
 
 ---
