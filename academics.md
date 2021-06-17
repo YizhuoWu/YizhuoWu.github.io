@@ -1,18 +1,9 @@
 ## [Portfolio](https://yizhuowu.github.io/) | [Career](https://yizhuowu.github.io/career) | [Academics](https://yizhuowu.github.io/) | [About Me](https://yizhuowu.github.io/)
 ---
 
-### Internship Experiences
+### Oops! This page is still under construction!
 
-### [BMW Technology Corporation](/sample_page)
-<img src="images/career/bmw/bmw1.jpeg"/>
 
----
-[Voice Controlled Photo Album](/pdf/sample_presentation.pdf)
-<img src="images/Voice_Controlled_Photo_Album.png"/>
-
----
-[Spam Detection](http://example.com/)
-<img src="images/spam_checker.png"/>
 
 
 
