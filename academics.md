@@ -3,12 +3,18 @@
 
 ### Oops! This page is still under construction!
 
-
+## Courses
+---
+### Courses at University of California, Irvine
+ICS 31 - INTRO TO PROGRMMING<br>
+ICS 32 - PROG SOFTWARE LIBR<br>
+ICS 33 - INTERMEDIATE PRGRMG<br> 
+---
+### Courses at Columbia University
 
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
