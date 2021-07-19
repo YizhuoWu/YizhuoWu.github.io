@@ -1,9 +1,9 @@
 ## [Portfolio](https://yizhuowu.github.io/) | [Career](/career) | [Academics](/academics) | [About Me](/about)
 ---
 
-### AWS / Big Data / Cloud Computing 
+### Project: AWS / Big Data / Cloud Computing 
 
-### [Dining Concierge Chatbot](https://github.com/YizhuoWu/Dining-Concierge-Chatbot)
+### [Dining Concierge Chatbot](https://github.com/YizhuoWu/Dining-Robot)
 <img src="images/Dining_Concierge_Chat_Bot.png"/>
 
 ---
