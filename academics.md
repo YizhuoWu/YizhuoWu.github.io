@@ -4,7 +4,7 @@
 ---
 ### Courses at University of California, Irvine
 ICS means Donald Bren School of Information and Computer Sciences (ICS)<br>
-ICS6B - BOOLEAN ALG & LOGIC<br>
+ICS 6B - BOOLEAN ALG & LOGIC<br>
 ICS 6D - DISCRET MATH FOR CS<br>
 ICS 31 - INTRO TO PROGRMMING<br>
 ICS 32 - PROG SOFTWARE LIBR<br>
@@ -14,7 +14,7 @@ ICS 45C - PROGRAM IN C/C++<br>
 ICS 46 - DATA STRC IMPL&ANLS<br>
 ICS 51 - INTRO COMPUTER ORG<br>
 ICS 53 - PRINCP IN SYS DESGN<br>
-ICS62 - GAME TECH&INT MEDIA<br>
+ICS 62 - GAME TECH&INT MEDIA<br>
 ICS 139W - CRITICAL WRITING<br>
 COMPSCI 122A - INTRO TO DATA MGMT<br>
 COMPSCI 171 - INTRO ARTIFCL INTEL<br>
@@ -35,9 +35,6 @@ COMS 6998 - CLOUD COMPUTING & BIG DATA<br>
 CSEE 4119 - COMPUTER NETWORKS<br>
 CSOR 4231 - ANALYSIS OF ALGORITHMS<br>
 
----
-## Leetcode
-Finished Problems(There may be some problems that I have finished but haven’t put up yet)<br>
 
 
 
