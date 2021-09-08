@@ -8,7 +8,5 @@ Chengdu, Sichuan, China<br>
 <br>
 Software Development Engineer Intern for JD.com AI Department (Team of Intention Recognition)<br>
 
-• Developed new features for JD JIMI Intelligent Chatting Robot user personas.<br>
-• Analyzed JD JIMI NER overall effects.<br>
-• Analyzed JIMI daily log.<br>
-• Analyzed competitor's products.<br>
+• Performed in updating and testing the JIMI Intelligent AI robot in JD online platform, created 5+ new features for JD JIMI Intelligent Chatting Robot user personas.<br>
+• Analyzed JD JIMI NER overall effects, JIMI daily log, competitor's products (Google Contact Center AI).<br>
