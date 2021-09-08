@@ -4,6 +4,8 @@
 ### Project: AWS / Big Data / Cloud Computing 
 
 ### [Dining Concierge Chatbot](https://github.com/YizhuoWu/Dining-Robot)
+
+#### Leveraged AWS services (AWS S3, SQS, SES, Elasticsearch, DynamoDB, API Gateway) to construct a dining concierge chatbot sends user restaurants suggestions given a set of preferences user provide chatbot with.
 <img src="images/Dining_Concierge_Chat_Bot.png"/>
 
 ---
