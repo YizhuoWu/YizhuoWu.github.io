@@ -9,12 +9,10 @@ June 2019 - Sep 2019<br>
 <br>
 Software Engineering Intern at BMW Technology Corporation - Core Services Team<br>
 
-• Developed new car service features for BMW Connected Drive as micro-services using C# under ASP.NET Core framework with DevOps development practices.<br>
-• Deployed new services into Microsoft Azure using Azure Webapp, Azure function, Azure CosmosDB, Azure Eventhub, Azure Datalake.<br>
-• Optimized several U-SQL queries for performance issues or cost issues.<br>
-• Participated in optimization for machine learning smart pre-conditioning service using python, Apache Hadoop.<br>
-• Participated in Services Migration to Service Mesh using Kubernetes, dockers, Apache Kafka.<br>
-• Implemented machine learning service API endpoints using C# under ASP.NET Core framework.<br>
-
-#### Some interesting photos for you to enjoy :superhero_woman
-:airplane:
+• Developed new car service features for BMW Connected Drive as micro-services under ASP.NET Core framework with DevOps
+development practices.<br>
+• Deployed new services into Microsoft Azure with Azure Webapp, Azure function, Azure CosmosDB, Azure Eventhub, Azure Datalake.<br>
+• Optimized and rewrite several U-SQL queries, enhanced system performance and reduced cost issues.<br>
+• Performed in optimization for machine learning smart pre-conditioning service using python, Apache Hadoop.<br>
+• Accomplished Services Migration to Service Mesh using Kubernetes, dockers, Apache Kafka.<br>
+• Interacted with Machine Learning team, designed and implemented 3+ ML service API endpoints under ASP.NET Core framework.<br>
