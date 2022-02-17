@@ -18,6 +18,6 @@
 I love traveling. I am also fortunate enough to travel to different countries to experience the scenery, culture, and people. Travelling gives me different perspectives on myself, there is no need for me to live in the same way forever.<br>
 
 ### [See Where I've Traveled](https://yizhuowu.github.io/travel)
-<img src="images/career/travel/nz_1.JPG" width="450" height="450"/>
+<img src="images/travel/nz_1.jpg" width="450" height="450"/>
 
 ---
