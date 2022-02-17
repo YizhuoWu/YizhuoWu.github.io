@@ -18,6 +18,7 @@
 I love traveling. I am also fortunate enough to travel to different countries to experience the scenery, culture, and people. Travelling gives me different perspectives on myself, there is no need for me to live in the same way forever.<br>
 
 ### [-> See Where I've Traveled](https://yizhuowu.github.io/travel)
-<img src="images/travel/nz_1.png"/>
+<img src="images/travel/nz_1.png"/><br>
+|Photo taken at Queenstown, New Zealand in August 2016.
 
 ---
