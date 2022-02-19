@@ -36,7 +36,7 @@ I love traveling. I am also fortunate enough to travel to different countries to
 <img src="images/travel/Thailand/1.png"/>
 
 ### [Switzerland](https://yizhuowu.github.io/travel)
-<img src="images/travel/Switzerland/1.png"/>
+<img src="images/travel/Switzerland/1.jpeg"/>
 
 ### [France](https://yizhuowu.github.io/travel)
 <img src="images/travel/France/1.png"/>
