@@ -11,9 +11,8 @@ I love traveling. I am also fortunate enough to travel to different countries to
 ### [New Zealand](https://yizhuowu.github.io/travel)
 <img src="images/travel/nz_1.png"/>
 
-
-### [Tibet, China](https://yizhuowu.github.io/travel)
-<img src="images/travel/Tibet/t1.png"/>
+### [Austrilia](https://yizhuowu.github.io/travel)
+<img src="images/travel/Austrilia/au_1.png"/>
 
 ### [Japan](https://yizhuowu.github.io/travel)
 <img src="images/travel/Japan/j1.png"/>
@@ -21,6 +20,32 @@ I love traveling. I am also fortunate enough to travel to different countries to
 ### [Mexico](https://yizhuowu.github.io/travel)
 <img src="images/travel/Mexico/logo.png"/>
 
+### [Vietnam](https://yizhuowu.github.io/travel)
+<img src="images/travel/Mexico/logo.png"/>
+
+### [Malaysia](https://yizhuowu.github.io/travel)
+<img src="images/travel/Mexico/logo.png"/>
+
+### [Indonesia](https://yizhuowu.github.io/travel)
+<img src="images/travel/Mexico/logo.png"/>
+
+### [Sri Lanka](https://yizhuowu.github.io/travel)
+<img src="images/travel/Sri_Lanka/sl_1.png"/>
+
+### [Thailand](https://yizhuowu.github.io/travel)
+<img src="images/travel/Tibet/t1.png"/>
+
+### [Switzerland](https://yizhuowu.github.io/travel)
+<img src="images/travel/Tibet/t1.png"/>
+
+### [France](https://yizhuowu.github.io/travel)
+<img src="images/travel/Tibet/t1.png"/>
+
+### [Italy](https://yizhuowu.github.io/travel)
+<img src="images/travel/Tibet/t1.png"/>
+
+### [Tibet, China](https://yizhuowu.github.io/travel)
+<img src="images/travel/Tibet/t1.png"/>
 
 ### More incoming...
 ---
