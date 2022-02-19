@@ -21,7 +21,7 @@ I love traveling. I am also fortunate enough to travel to different countries to
 <img src="images/travel/Mexico/logo.png"/>
 
 ### [Vietnam](https://yizhuowu.github.io/travel)
-<img src="images/travel/Mexico/logo.png"/>
+<img src="images/travel/Vietnam/1.png"/>
 
 ### [Malaysia](https://yizhuowu.github.io/travel)
 <img src="images/travel/Mexico/logo.png"/>
@@ -33,7 +33,7 @@ I love traveling. I am also fortunate enough to travel to different countries to
 <img src="images/travel/Sri_Lanka/sl_1.png"/>
 
 ### [Thailand](https://yizhuowu.github.io/travel)
-<img src="images/travel/Tibet/t1.png"/>
+<img src="images/travel/Thailand/1.png"/>
 
 ### [Switzerland](https://yizhuowu.github.io/travel)
 <img src="images/travel/Switzerland/1.png"/>
