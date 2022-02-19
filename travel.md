@@ -42,7 +42,7 @@ I love traveling. I am also fortunate enough to travel to different countries to
 <img src="images/travel/Tibet/t1.png"/>
 
 ### [Italy](https://yizhuowu.github.io/travel)
-<img src="images/travel/Tibet/t1.png"/>
+<img src="images/travel/Italy/1.png"/>
 
 ### [Tibet, China](https://yizhuowu.github.io/travel)
 <img src="images/travel/Tibet/t1.png"/>
