@@ -27,4 +27,4 @@ development practices.<br>
 
 <img src="images/career/bmw/bmw1.jpeg" width="360" height="350"/><br>
 <img src="images/career/bmw/bmw3.JPG"/><br>
-<img src="images/career/bmw/bmw4.png"/><br>
+<img src="images/career/bmw/bmw4.JPG"/><br>
