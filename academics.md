@@ -3,7 +3,7 @@
 ## Courses
 ---
 ### Courses at University of California, Irvine
-ICS means Donald Bren School of Information and Computer Sciences (ICS)<br>
+ICS stands for Donald Bren School of Information and Computer Sciences (ICS)<br>
 ICS 6B - BOOLEAN ALG & LOGIC<br>
 ICS 6D - DISCRET MATH FOR CS<br>
 ICS 31 - INTRO TO PROGRMMING<br>
