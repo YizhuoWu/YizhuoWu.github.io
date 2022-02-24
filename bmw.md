@@ -3,7 +3,7 @@
 
 ### BMW Technology Corporation - Chicago, IL
 
-[About BMW Technology Corporation](https://www.bmwgroup.jobs/us-old/en/location/location-chicago.html#ace-1125069962)
+[About BMW Technology Corporation](https://www.bmwgroup.jobs/us-old/en/location/location-chicago.html#ace-1125069962)<br>
 BMW Group • Internship<br>
 June 2019 - Sep 2019<br>
 540 W Madison St Suite 2400, Chicago, IL 60661<br>
