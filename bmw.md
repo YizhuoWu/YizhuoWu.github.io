@@ -22,4 +22,4 @@ development practices.<br>
 • 负责宝马云端服务，移动端服务，互联驾驶服务开发。<br>
 • [宝马芝加哥研究院](https://www.bmwgroup.jobs/us-old/en/location/location-chicago.html#ace-1125069962)<br>
 
-<img src="images/career/bmw/bmw1.jpeg" width="400" height="350"/><br>
+<img src="images/career/bmw/bmw1.jpeg" width="360" height="350"/><br>
