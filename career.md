@@ -3,7 +3,7 @@
 ### Full-Time Experiences
 
 ### [Amazon.com - Palo Alto, CA](https://yizhuowu.github.io/amazon)
-<img src="images/career/amazon/amazon.png" width="450" height="250"/>
+<img src="images/career/amazon/amazon.png" width="450" height="300"/>
 
 ### Internship Experiences
 
