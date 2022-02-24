@@ -26,4 +26,4 @@ development practices.<br>
 I prefer the i8 and M850i since i8 is BMW's first try at electric cars, while M850's 4.4T V8 engine produces incredible performance.<br>
 
 <img src="images/career/bmw/bmw1.jpeg" width="360" height="350"/><br>
-<img src="images/career/bmw/bmw3.JPG" width="360" height="350"/><br>
+<img src="images/career/bmw/bmw3.JPG"/><br>
