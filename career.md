@@ -8,7 +8,7 @@
 ### Internship Experiences
 
 ### [BMW Technology Corporation - Chicago, IL](https://yizhuowu.github.io/bmw)
-<img src="images/career/bmw/bmw2.png" width="450" height="450"/>
+<img src="images/career/bmw/bmw2.jpg" width="450" height="450"/>
 
 ---
 ### [JD.com - Chengdu, China](https://yizhuowu.github.io/jd)
