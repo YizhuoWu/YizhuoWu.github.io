@@ -3,6 +3,7 @@
 
 ### BMW Technology Corporation - Chicago, IL
 
+[About BMW Technology Corporation](https://www.bmwgroup.jobs/us-old/en/location/location-chicago.html#ace-1125069962)
 BMW Group • Internship<br>
 June 2019 - Sep 2019<br>
 540 W Madison St Suite 2400, Chicago, IL 60661<br>
@@ -16,3 +17,9 @@ development practices.<br>
 • Performed in optimization for machine learning smart pre-conditioning service using python, Apache Hadoop.<br>
 • Accomplished Services Migration to Service Mesh using Kubernetes, dockers, Apache Kafka.<br>
 • Interacted with Machine Learning team, designed and implemented 3+ ML service API endpoints under ASP.NET Core framework.<br>
+
+• 宝马集团 - 宝马芝加哥研究院 - 核心服务组 - 软件开发实习生<br>
+• 负责宝马云端服务，移动端服务，互联驾驶服务开发。<br>
+• [宝马芝加哥研究院](https://www.bmwgroup.jobs/us-old/en/location/location-chicago.html#ace-1125069962)<br>
+
+<img src="images/career/bmw/bmw1.jpeg" width="400" height="350"/><br>
