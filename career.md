@@ -8,11 +8,11 @@
 ### Internship Experiences
 
 ### [BMW Technology Corporation - Chicago, IL](https://yizhuowu.github.io/bmw)
-<img src="images/career/bmw/bmw2.jpg" width="450" height="450"/>
+<img src="images/career/bmw/bmw2.jpg" width="350" height="350"/>
 
 ---
 ### [JD.com - Chengdu, China](https://yizhuowu.github.io/jd)
-<img src="images/career/jd/jd1.jpeg" width="450" height="450"/>
+<img src="images/career/jd/jd1.jpeg" width="350" height="350"/>
 
 ---
 ### Technical Stack
