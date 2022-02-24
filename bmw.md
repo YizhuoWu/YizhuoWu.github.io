@@ -22,8 +22,8 @@ development practices.<br>
 • 负责宝马云端服务，移动端服务，互联驾驶服务开发。<br>
 • [宝马芝加哥研究院](https://www.bmwgroup.jobs/us-old/en/location/location-chicago.html#ace-1125069962)<br>
 
-## Fun facts: At BMW, interns have the opportunity to drive some "Fantastic" vehicles in the BMW garage. Personally speaking,
-I prefer the i8 and M850i since i8 is BMW's first try at electric cars, while M850's 4.4T V8 engine produces incredible performance.<br>
+#### Fun facts: At BMW, interns have the opportunity to drive some "Fantastic" vehicles in the BMW garage. Personally speaking,
+#### I prefer the i8 and M850i since i8 is BMW's first try at electric cars, while M850's 4.4T V8 engine produces incredible performance.<br>
 
 <img src="images/career/bmw/bmw1.jpeg" width="360" height="350"/><br>
 <img src="images/career/bmw/bmw3.JPG"/><br>
