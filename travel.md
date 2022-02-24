@@ -24,10 +24,10 @@ I love traveling. I am also fortunate enough to travel to different countries to
 <img src="images/travel/Vietnam/1.png"/>
 
 ### [Malaysia](https://yizhuowu.github.io/travel)
-<img src="images/travel/Mexico/logo.png"/>
+<img src="images/travel/Malaysia/1.png"/>
 
 ### [Indonesia](https://yizhuowu.github.io/travel)
-<img src="images/travel/Mexico/logo.png"/>
+<img src="images/travel/Indonesia/1.png"/>
 
 ### [Sri Lanka](https://yizhuowu.github.io/travel)
 <img src="images/travel/Sri_Lanka/sl_1.png"/>
