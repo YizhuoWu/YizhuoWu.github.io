@@ -21,4 +21,7 @@ I love traveling. I am also fortunate enough to travel to different countries to
 <img src="images/travel/nz_1.png"/><br>
 |Photo taken at Queenstown, New Zealand in August 2016.
 
+I love music. I am a piano player and a bass player. I owned a rock band at SoCal. We did a lot of shows during my college years. We love alternative rock and some light metals!
+<img src="images/band/band1.JPG"/><br>
+|Photo taken at Los Angeles in May 2018.
 ---
