@@ -6,4 +6,5 @@
 Amazon.com • Full-Time<br>
 July 2022 - <br>
 <br>
-Software Engineering at Amazon.com<br>
+Software Engineer at Amazon AWS AI<br>
+I'm working on a team building an exciting AWS service from scratch.<br>
